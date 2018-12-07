@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidDeveloperTest</string>
+    <string name="button_name">Tap Me</string>
+</resources>
